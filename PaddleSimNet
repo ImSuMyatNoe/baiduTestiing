@@ -1,0 +1,22 @@
+#Paddle Edition SimNet
+<hr>
+
+The Paddle version of Simnet provides four network implementations of BOW, CNN, LSTM and GRU.<br>
+You can flexibly choose the network, loss function and training method you need in the form of configuration files.
+#Content
+1. Code structure
+2. installation
+3. data preparation
+4. Model training
+5. Model inference
+
+<br>
+
+#Code structure
+
+
+
+
+#Installation
+Paddle version of SimNet requires PaddlePaddle Fluid v1.0.2. For detailed installation methods, see PaddlePaddle's official website.
+
